@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886430120314",
+    "project_id": "gpy-smart-news",
+    "storage_bucket": "gpy-smart-news.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886430120314:android:06ee5dc1976724357dfec3",
+        "android_client_info": {
+          "package_name": "com.gpy.smartnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886430120314-67q8sgjtmjip5vu2pir1tsp7qtik6tds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBecek7Edtc_BgDRUok1pxwYy5p2sDTeaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886430120314-67q8sgjtmjip5vu2pir1tsp7qtik6tds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
